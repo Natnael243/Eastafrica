@@ -1,70 +1,59 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# 🌍 East Africa Ecommerce & Inventory Platform
 
-## Available Scripts
+### 📦 Developed by Natnael Zelalem  
+Commissioned by Final Year Industrial Engineering Students to support their research project for East Africa Holding PLC.
 
-In the project directory, you can run:
+---
 
-### `npm start`
+##Project Overview
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+The **East Africa Ecommerce & Inventory Platform** is a web-based system that showcases all products under East Africa Holding PLC and provides a powerful inventory management backend.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+This system was developed to help demonstrate how East Africa Holding PLC can adopt modern digital solutions for product showcasing, customer access, and inventory management.
 
-### `npm test`
+---
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Purpose
 
-### `npm run build`
+- Provide an intuitive online storefront to showcase East Africa Holding PLC’s full product line.
+- Enable internal teams to manage stock, monitor sales, and update products in real-time.
+- Demonstrate the benefits of digital transformation in sales and inventory control.
+- Support academic and industrial research on supply chain optimization.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+---
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## 🧑‍💼 Target Client: East Africa Holding PLC
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+East Africa Holding manages a diverse portfolio of industrial and FMCG products. This platform helps them:
+- Centralize product visibility across all branches
+- Improve supply and demand accuracy
+- Streamline administrative operations in sales and inventory
 
-### `npm run eject`
+---
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## 🧰 Tech Stack
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+| Layer     | Technology              |
+|----------|--------------------------|
+| Frontend | React, JavaScript |
+| Backend  | PHP, MySQL               |
+| Hosting  | GitHub / Localhost (XAMPP) |
+| Admin UI | PHP + Bootstrap Dashboard |
+| Version  | Git & GitHub             |
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+---
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
+## 📚 License
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+This project is proprietary and developed under contract. Not intended for public commercial use.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+---
 
-### Code Splitting
+## 👨‍💻 Developer
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+**Natnael Zelalem**  
+Freelance Web Developer  
+📧 Email: Nhattyzola243@gmail.com  
+🌐 GitHub: github.com/Natnael243
